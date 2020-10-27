@@ -1,23 +1,12 @@
 function varargout = GRAFICA(varargin)
-% GRAFICA MATLAB code for GRAFICA.fig
-%      GRAFICA, by itself, creates a new GRAFICA or raises the existing
-%      singleton*.
-%
-%      H = GRAFICA returns the handle to a new GRAFICA or the handle to
-%      the existing singleton*.
-%
-%      GRAFICA('CALLBACK',hObject,eventData,handles,...) calls the local
-%      function named CALLBACK in GRAFICA.M with the given input arguments.
-%
-%      GRAFICA('Property','Value',...) creates a new GRAFICA or raises the
-%      existing singleton*.  Starting from the left, property value pairs are
-%      applied to the GUI before GRAFICA_OpeningFcn gets called.  An
-%      unrecognized property name or invalid value makes property application
-%      stop.  All inputs are passed to GRAFICA_OpeningFcn via varargin.
-%
-%      *See GUI Options on GUIDE's Tools menu.  Choose "GUI allows only one
-%      instance to run (singleton)".
-%
+%     UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA
+
+%           Jose Muel Chavez Miss
+
+%        Diego Javier Trujillo García
+
+
+
 % See also: GUIDE, GUIDATA, GUIHANDLES
 
 % Edit the above text to modify the response to help GRAFICA
