@@ -775,7 +775,7 @@ if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgr
 end
 
 
-% --- Executes on button press in SUMA.
+% --- Ejecuta la funcion SUMA en el boton suma.
 function SUMA_Callback(hObject, eventdata, handles)
 % hObject    handle to SUMA (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
@@ -795,7 +795,7 @@ set(handles.C32,'string',C(3,2));
 set(handles.C33,'string',C(3,3));
 
 
-% --- Executes on button press in RESTA.
+% --- ejecuta la funcion RESTA en el boton resta.
 function RESTA_Callback(hObject, eventdata, handles)
 % hObject    handle to RESTA (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
